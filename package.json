@@ -1,11 +1,12 @@
 {
-    "name": "MarketWatcher",
+    "name": "market_watcher",
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",
     "private": false,
     "dependencies": {
         "axios": "^0.21.1",
+        "ccxt": "^1.72.43",
         "dotenv": "^10.0.0",
         "web3": "^1.5.2"
     }
